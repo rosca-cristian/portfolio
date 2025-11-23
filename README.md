@@ -79,6 +79,6 @@ Proyecto de código abierto - Libre para usar como plantilla
 **Cristian Rosca**
 Full-Stack Developer
 
-- LinkedIn: [cristian-rosca](https://linkedin.com/in/cristian-rosca/)
+- LinkedIn: [cristian-rosca-b444251b8](https://www.linkedin.com/in/cristian-rosca-b444251b8/)
 - GitHub: [rosca-cristian](https://github.com/rosca-cristian)
 - Email: roscacristian98@gmail.com

@@ -40,15 +40,15 @@ const ContactContent = () => {
               <div className="contact-line">
                 <span className="contact-label">{t.contact.linkedin}</span>
                 <span className="contact-value">
-                  <a href="https://linkedin.com/in/cristian-rosca/" target="_blank" rel="noopener noreferrer">
-                    linkedin.com/in/cristian-rosca/
+                  <a href="https://www.linkedin.com/in/cristian-rosca-b444251b8/" target="_blank" rel="noopener noreferrer">
+                    linkedin.com/in/cristian-rosca-b444251b8/
                   </a>
                 </span>
               </div>
               <div className="contact-line">
                 <span className="contact-label">{t.contact.github}</span>
                 <span className="contact-value">
-                  <a href="#">github.com/cristian-rosca</a>
+                  <a href="https://github.com/rosca-cristian" target="_blank" rel="noopener noreferrer">github.com/rosca-cristian</a>
                 </span>
               </div>
             </div>
@@ -70,7 +70,7 @@ const ContactContent = () => {
           </div>
         </a>
 
-        <a href="https://linkedin.com/in/cristian-rosca/" target="_blank" rel="noopener noreferrer" className="contact-card">
+        <a href="https://www.linkedin.com/in/cristian-rosca-b444251b8/" target="_blank" rel="noopener noreferrer" className="contact-card">
           <div className="contact-card-icon">
             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
@@ -80,11 +80,11 @@ const ContactContent = () => {
           </div>
           <div className="contact-card-content">
             <h3>{t.contact.linkedinCard}</h3>
-            <p>/in/cristian-rosca</p>
+            <p>/in/cristian-rosca-b444251b8</p>
           </div>
         </a>
 
-        <a href="#" className="contact-card">
+        <a href="https://github.com/rosca-cristian" target="_blank" rel="noopener noreferrer" className="contact-card">
           <div className="contact-card-icon">
             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
@@ -92,7 +92,7 @@ const ContactContent = () => {
           </div>
           <div className="contact-card-content">
             <h3>{t.contact.githubCard}</h3>
-            <p>@cristian-rosca</p>
+            <p>@rosca-cristian</p>
           </div>
         </a>
       </div>

@@ -25,7 +25,7 @@ const ReadmeContent = () => {
           <div className="stat-label">{t.readme.technologies}</div>
         </div>
         <div className="stat-card">
-          <div className="stat-number">8+</div>
+          <div className="stat-number">3</div>
           <div className="stat-label">{t.readme.languages}</div>
         </div>
       </div>
